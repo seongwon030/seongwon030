@@ -1,7 +1,4 @@
-<div align="center">
-    <img src="https://github.com/seongwon030/seongwon030/assets/105052068/b1b8d140-72b2-45f4-9962-610a6dfe1a1e"/> Tech Stack 
-</div><hr>
-<br>
+<img src="https://github.com/seongwon030/seongwon030/assets/105052068/1f3dd9a2-d9ee-47b6-b6df-c29773a5dca4"/> studying
 
 <div>
     	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
