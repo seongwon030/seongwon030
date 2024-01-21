@@ -34,3 +34,6 @@
 <hr>
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=seongwon0903"/>
 <img src="http://mazandi.herokuapp.com/api?handle=seongwon0903&theme=warm"/>
+<br>
+<h2>Language</h2>
+<img src="http://github-readme-stats.vercel.app/api?username=seongwon030"/>
