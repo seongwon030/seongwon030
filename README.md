@@ -33,7 +33,7 @@
 
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=seongwon0903"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongwon030&layout=compact"><br><br>
 <img src="http://github-readme-stats.vercel.app/api?username=seongwon030"/>
 <br>
 <img src="https://velog-readme-stats.vercel.app/api?name=seongwon__105&tag=github"/>
