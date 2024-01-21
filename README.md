@@ -22,4 +22,4 @@
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 </div><br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={seongwon0903})](https://solved.ac/{seongwon0903})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={https://solved.ac/{seongwon0903})
