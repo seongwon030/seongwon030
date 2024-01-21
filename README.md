@@ -8,7 +8,7 @@
 </div><br>
 
 <div align="center">
-	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/1f3dd9a2-d9ee-47b6-b6df-c29773a5dca4"/><br> Study
+	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/1f3dd9a2-d9ee-47b6-b6df-c29773a5dca4"/> Study
 </div>
 
 
