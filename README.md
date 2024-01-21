@@ -32,8 +32,10 @@
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 </div><br><hr>
 
+<h2>Baekjoon</h2>
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=seongwon0903"/>
 <br>
+<h2>Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongwon030&layout=compact">
 <br>
 <img src="https://velog-readme-stats.vercel.app/api?name=seongwon__105&tag=github"/>
