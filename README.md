@@ -6,7 +6,8 @@
 
 
 <img src="https://github.com/seongwon030/seongwon030/assets/105052068/1f3dd9a2-d9ee-47b6-b6df-c29773a5dca4"/> Study
-<div>
+
+<div align="center">
     	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /><br>
@@ -16,7 +17,7 @@
 </div><br>
 
 <img src="https://github.com/seongwon030/seongwon030/assets/105052068/0f236551-c369-4c53-97b8-8b025169b76f"/> Tools <br>
-<div>
+<div align="center">
     	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
