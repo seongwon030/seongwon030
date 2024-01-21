@@ -33,3 +33,4 @@
 
 <hr>
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=seongwon0903"/>
+<img src="http://mazandi.herokuapp.com/api?handle=seongwon0903&theme=warm"/>
