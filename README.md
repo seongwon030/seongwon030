@@ -1,6 +1,4 @@
-<div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90"/>
-</div>
+
 
 <div align="center">
 	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/f2c61795-204c-4510-8750-beba5bf320da"/> seongwon <br>
