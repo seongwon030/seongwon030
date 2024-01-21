@@ -16,4 +16,8 @@
 </div><br>
 
 <img src="https://github.com/seongwon030/seongwon030/assets/105052068/0f236551-c369-4c53-97b8-8b025169b76f"/> Tools <br>
-
+<div>
+    	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+</div><br>
