@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <div align="center">
 	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/f2c61795-204c-4510-8750-beba5bf320da"/> seongwon <br>
 </div><br>
@@ -18,7 +20,7 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-</div><br>
+</div><br><hr>
 
 <div align="center">
 	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/0f236551-c369-4c53-97b8-8b025169b76f"/> Tools <br>
@@ -33,7 +35,6 @@
 
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=seongwon0903"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongwon030&layout=compact"><br><br>
-<img src="http://github-readme-stats.vercel.app/api?username=seongwon030"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongwon030&layout=compact"><br>
 <br>
 <img src="https://velog-readme-stats.vercel.app/api?name=seongwon__105&tag=github"/>
