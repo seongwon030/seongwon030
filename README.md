@@ -32,5 +32,4 @@
 </div><br>
 
 <hr>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=seongwon0903)](https://solved.ac/seongwon0903)
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=seongwon0903"/>
