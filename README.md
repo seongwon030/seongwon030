@@ -38,4 +38,5 @@
 <h2>Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongwon030&layout=compact">
 <br>
-<img src="https://velog-readme-stats.vercel.app/api?name=seongwon__105&tag=github"/>
+<h2>Velog</h2>
+<img src="https://velog-readme-stats.vercel.app/api?name=seongwon__105"/>
