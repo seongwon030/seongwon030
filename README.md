@@ -1,7 +1,7 @@
 
 
 <div>
-	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/f2c61795-204c-4510-8750-beba5bf320da"/> seongwon <br>
+	 seongwon <br>
 </div><br>
 
 <div>
