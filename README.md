@@ -1,3 +1,7 @@
+<img src="https://github.com/seongwon030/seongwon030/assets/105052068/f2c61795-204c-4510-8750-beba5bf320da"/> seongwon 
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
+
 <img src="https://github.com/seongwon030/seongwon030/assets/105052068/1f3dd9a2-d9ee-47b6-b6df-c29773a5dca4"/> studying
 
 <div>
@@ -9,4 +13,3 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div><br>
 
-<h1></h1>
