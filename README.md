@@ -4,8 +4,10 @@
 	<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
 </div><br>
 
+<div align="center">
+	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/1f3dd9a2-d9ee-47b6-b6df-c29773a5dca4"/> Study
+</div>
 
-<img src="https://github.com/seongwon030/seongwon030/assets/105052068/1f3dd9a2-d9ee-47b6-b6df-c29773a5dca4"/> Study
 
 <div align="center">
     	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
