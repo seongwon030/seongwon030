@@ -20,11 +20,11 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-</div><br><hr>
+</div><br>
 
 <div align="center">
 	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/0f236551-c369-4c53-97b8-8b025169b76f"/> Tools <br>
-</div><br>
+</div><br><hr>
 
 
 <div align="center">
