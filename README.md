@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90"/>
+</div>
 
 <div align="center">
 	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/f2c61795-204c-4510-8750-beba5bf320da"/> seongwon <br>
@@ -35,6 +37,6 @@
 
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=seongwon0903"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongwon030&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongwon030&layout=compact">
 <br>
 <img src="https://velog-readme-stats.vercel.app/api?name=seongwon__105&tag=github"/>
