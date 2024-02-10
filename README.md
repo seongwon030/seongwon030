@@ -43,3 +43,5 @@
 <br>
 <h2>Velog</h2>
 <img src="https://velog-readme-stats.vercel.app/api?name=seongwon__105"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=seongwon030&show_icons=true&theme=radical"/>
