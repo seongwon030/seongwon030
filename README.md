@@ -2,7 +2,7 @@
 
 
 <div>
-	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/113fb3a3-b9cf-49ca-a86c-0f3fb3f5842c"/>
+	<img onclick="https://velog.io/@seongwon__105/posts" src="https://github.com/seongwon030/seongwon030/assets/105052068/113fb3a3-b9cf-49ca-a86c-0f3fb3f5842c"/>
 	 seongwon <br>
 </div><br>
 
