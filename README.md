@@ -1,36 +1,36 @@
-
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&)
 <div>
-	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/113fb3a3-b9cf-49ca-a86c-0f3fb3f5842c"/>
-	 seongwon <br>
+	I'm seongwon <br>
 </div><br>
 
 <div>
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com"/>
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://velog.io/@seongwon__105/posts"/>
 	<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
 </div><br>
 
 <div>
-	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/1f3dd9a2-d9ee-47b6-b6df-c29773a5dca4"/> Study
+	Stack
 </div><br>
 
 <div>
-    	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /><br>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+    	<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </div><br>
 
 <div>
-	<img src="https://github.com/seongwon030/seongwon030/assets/105052068/0f236551-c369-4c53-97b8-8b025169b76f"/> Tools <br>
+Tools <br>
 </div><br>
 
 <div>
-    	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+    	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-</div><br><hr>
+</div><br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwon030)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 <h2>Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongwon030&layout=compact">
@@ -41,3 +41,4 @@
 <h2>Velog</h2>
 <img src="https://velog-readme-stats.vercel.app/api?name=seongwon__105"/>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&)
