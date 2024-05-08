@@ -27,7 +27,4 @@ Tools <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongwon030&hide=C%2B%2B&layout=compact)](https://github.com/seongwon030/github-readme-stats)
 
-<h2>Baekjoon</h2>
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=seongwon0903"/>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&)
