@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20seongwon&fontSize=30&animation=fadeIn)
 
 <div>
-	Stack
+	I'm studying
 </div><br>
 
 <div>
@@ -12,7 +12,7 @@
 </div><br>
 
 <div>
-Tools <br>
+Tools
 </div><br>
 <div>
 	<a href="https://velog.io/@seongwon__105/posts">
