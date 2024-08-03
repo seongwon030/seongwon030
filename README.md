@@ -18,8 +18,8 @@
 	</a>
 </div><br>
 
+![seongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwon030&theme=default&show_icons=true)
 
-![seongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwon030&show_icons=true&theme=radical&card_width=10)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongwon030&hide=C%2B%2B&layout=compact)](https://github.com/seongwon030/github-readme-stats)
 
