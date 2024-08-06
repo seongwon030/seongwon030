@@ -19,5 +19,4 @@
 
 ![seongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwon030&theme=default&show_icons=true)
 
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
