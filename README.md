@@ -21,6 +21,4 @@
 	</a>
 </div><br/>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seongwon__105)](https://velog-readme-stats.vercel.app/api/redirect?name=seongwon__105&tag=github)
-
 ![seongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwon030&theme=default&show_icons=true)
