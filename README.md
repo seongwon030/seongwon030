@@ -19,6 +19,6 @@
 	</a>
 </div><br/>
 
-![seongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwon030&theme=default&show_icons=true)
+![seongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwon030&theme=default&show_icons=true&count_private=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongwon0903)](https://solved.ac/seongwon0903/)
