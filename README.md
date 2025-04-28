@@ -30,6 +30,10 @@
 
 - 개발 과정, 스터디 기록, 회고 등을 기록합니다. <br/>
 
+## 스터디
+[Javascript](https://github.com/seongwon030/javaScript)<br/>
+[Typescript](https://github.com/seongwon030/typescript_study)
+
 ## 경험
 - 부경대학교 개발동아리 WAP 임원진 (2024.02 ~ ing)
 - 부경대학교 개발동아리 WAP 회장 (2024.07 ~ 2024.12)
