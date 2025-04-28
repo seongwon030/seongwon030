@@ -20,6 +20,7 @@
 - 상태관리: Recoil, Tankstack-Query
 - 스타일: Styed-components
 - 빌드: Webpack, Esbuild
+- 테스트: Jest, React-testing-library
 
 ## 개발 블로그
 <div>
