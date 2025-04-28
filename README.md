@@ -33,7 +33,9 @@
 
 ## 스터디
 [Javascript](https://github.com/seongwon030/javaScript)<br/>
-[Typescript](https://github.com/seongwon030/typescript_study)
+[Typescript](https://github.com/seongwon030/typescript_study)<br/>
+[Algorithm](https://github.com/AlgoLeadMe/AlgoLeadMe-8)<br/>
+[블로그 스터디](https://github.com/Hangeoreum/Hangeoreum-1)
 
 ## 경험
 - 부경대학교 개발동아리 WAP 임원진 (2024.02 ~ ing)
