@@ -11,21 +11,12 @@
 [Moadong](https://github.com/Moadong/moadong)<br/> (2024.12 ~ ing) <br/>
 
 
-## 사용기술
-
-- 라이브러리: React
-- 언어: Javascript, Typescript
-- 상태관리: Recoil, Tankstack-Query
-- 스타일: Styed-components
-
 ## 개발 블로그
 <div>
 	<a href="https://velog.io/@seongwon__105/posts">
 	<img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog"/>
 	</a>
 </div>
-
-- 개발 과정, 스터디 기록, 회고 등을 기록합니다. <br/>
 
 ## 경험
 - 부경대학교 개발동아리 WAP 임원진 (2024.02 ~ ing)
