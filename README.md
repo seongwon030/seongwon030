@@ -1,6 +1,6 @@
-## 저는
-- 사용자에게 친근하게 다가가는 방법을 고민하는 것을 좋아합니다.
-## 프로젝트
+## Hi 👋
+- 저는 사용자에게 친근하게 다가가는 방법을 고민하는 것을 좋아합니다.
+## Projects
 > 당신의 음악 취향을 찾아보세요!
 [Music Pick](https://github.com/pknu-wap/Music_PICK)<br/>  (2024.02 ~ 2024.12)
 
@@ -11,14 +11,14 @@
 [Moadong](https://github.com/Moadong/moadong)<br/> (2024.12 ~ ing) <br/>
 
 
-## 개발 블로그
+## Tech Blog
 <div>
 	<a href="https://velog.io/@seongwon__105/posts">
 	<img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog"/>
 	</a>
 </div>
 
-## 경험
+## Experience
 - 부경대학교 개발동아리 WAP 임원진 (2024.02 ~ ing)
 - 부경대학교 개발동아리 WAP 회장 (2024.07 ~ 2024.12)
 - 부산대x부경대 하계 연합해커톤 운영진 (2024.08)
