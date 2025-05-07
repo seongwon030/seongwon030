@@ -23,7 +23,7 @@
 > 부산 지역문제 해결 연합 해커톤 경진대회 운영진 (2025.02)<br/> 
 > 부경대학교 프로그래밍 경진대회 장려상 (2024.10)<br/> 
 
-## 통계
+
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=seongwon030&theme=default&show_icons=true&count_private=true" height="180px"/>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seongwon0903" height="180px"/>
