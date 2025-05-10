@@ -6,7 +6,7 @@
 - 부경대학교 QR학생증 기반 출석체크 서비스 
 [WABI](https://github.com/pknu-wap/WABI-FE) (2024.08 ~ 2024.11)<br/> 
 - 부경대학교 동아리 지원 및 관리 서비스
-[Moadong](https://github.com/Moadong/moadong) (2024.12 ~ ing) <br/>
+[Moadong](https://github.com/Moadong/moadong) (2025.01 ~ ing) <br/>
 
 
 ## Tech Blog
