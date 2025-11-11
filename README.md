@@ -9,12 +9,12 @@
 [Moadong](https://github.com/Moadong/moadong) (2025.01 ~ ing) <br/>
 
 
-## Tech Blog
-<div>
-	<a href="https://velog.io/@seongwon__105/posts">
-	<img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog"/>
-	</a>
+## Blog
+
+<div align='left'>
+  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=seongwon__105&color=dark">
 </div>
+
 
 ## Experience
 > 부경대학교 개발동아리 WAP (2023.09 ~ ing)<br/>
