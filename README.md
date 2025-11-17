@@ -4,11 +4,12 @@
 친근하게 다가가기 위해 고민하는 개발자 서성원입니다. 
 
 
-
 ## Blog
 
 <div align='left'>
-  <img width="50%" src="https://velog-readme-stats.vercel.app/api?name=seongwon__105&color=dark">
+  <a href="https://velog.io/@seongwon__105">
+    <img width="50%" src="https://velog-readme-stats.vercel.app/api?name=seongwon__105&color=dark" alt="seongwon__105 Velog Stats">
+  </a>
 </div>
 
 
