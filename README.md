@@ -1,6 +1,6 @@
 # About Me
 
-### **B.S. Student in Computer Science @ Pukyong National University**
+### **B.S. Student in Computer Science @Pukyong National University**
 
 - **Target:** Frontend Engineer
 - **Focus:** Delivering value through data with React and JavaScript
