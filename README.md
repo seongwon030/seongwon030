@@ -15,7 +15,7 @@
 * [**Moadong(모아동)**](https://github.com/Moadong/moadong) – Club platform for Pukyong National University students
 * [**Murphy(머피)**](https://github.com/boostcampwm2025/web09-dopamine) – AI-Powered Team Decision-Making Solution
 * [**pknuvcd2025**](https://github.com/PKNU-VCD/pknu-vcd-fe) - Graduation Exhibition Website for PKNU Visual Design Major
-Visual Design Major
+
 * [**WABI(와비)**](https://github.com/pknu-wap/WABI-FE) - PKNU Organization Verification Service
 * [**MusicPick**](https://github.com/pknu-wap/Music_PICK) - Music Labeling Test
 
