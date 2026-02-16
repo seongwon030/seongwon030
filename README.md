@@ -22,7 +22,7 @@
 
 # Experiences
 
-* **Leader & Executive Member, WAP Programming Club** (2024.02 ~ 2025.12) 
+* **Leader & Executive Member, [WAP Programming Club](https://github.com/pknu-wap)** (2024.02 ~ 2025.12) 
 * **Naver Boostcamp Web·Mobile 10th** -  FullStack Course Completed (2025.08 ~ 2026.02)
 
 
