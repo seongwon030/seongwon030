@@ -10,7 +10,7 @@
 
 # Careers
 
-- [BMEKS](https://www.bmeks.com/) - Frontend Engineer Field Training (2026.03 ~ )
+- [BMEKS](https://www.bmeks.com/) - Frontend Engineer Field Training (2026.03 ~ 08)
 
 <br>
 
