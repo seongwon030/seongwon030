@@ -29,7 +29,7 @@
 
 * BMEKS Frontend Engineer 현장실습 (2026.03 ~ 2026.07)
 * 네이버 부스트캠프 웹모바일 10기 풀스택 (2025.08 ~ 2026.02)
-* 부경대학교 개발동아리 리더, 임원진 [WAP](https://github.com/pknu-wap) (2024.02 ~ 2025.12) 
+* 부경대학교 개발동아리 [WAP](https://github.com/pknu-wap) 리더, 임원진  (2024.02 ~ 2025.12) 
 
 
 <br>
