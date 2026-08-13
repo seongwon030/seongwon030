@@ -1,55 +1,33 @@
-### welcome ☺️
+<h3>Hi 👋</h3>
 
-- 1에서 10까지 가는 것을 지향합니다.
-- 기술적인 토론을 즐기며 협업을 좋아합니다.
-- 데이터 기반 사고를 즐깁니다.
-
-<br>
+1에서 100까지 가는 과정을 즐깁니다.<br/>
+End-to-End로 문제를 해결하며 분야에 상관없이 넘나드는 것을 지향합니다.
 
 
-### Projects
+## Work
 
-* [**Moadong(모아동)**](https://github.com/Moadong/moadong) – 부경대학교 동아리 플랫폼
-* [**Murphy(머피)**](https://github.com/boostcampwm2025/web09-dopamine) – AI 기반 팀 의사결정 솔루션
-* [**pknuvcd2025**](https://github.com/PKNU-VCD/pknu-vcd-fe) - 부경대학교 시각디자인과 졸업전시 사이트
-* [**WABI(와비)**](https://github.com/pknu-wap/WABI-FE) - 부경대학교 출석체크 서비스 
-* [**MusicPick**](https://github.com/pknu-wap/Music_PICK) - 음악 취향 분석 및 추천 서비스
+**비멕스(BMEKS) | 2026.03 ~ 2026.07 | Frontend Engineer**
+
+- 기업용 공정 데이터 관리 제품에서 AI 챗봇 기능 전담했습니다.
+- SaaS·온프레미스 환경별 AI 모델 설정 구조를 설계했습니다.
+
+## Projects
+
+**[**모아동**](https://github.com/Moadong/moadong) | 2024.12 ~ | FE, 팀장**
+- 부경대학교 동아리 플랫폼을 개발하고 운영해 왔습니다.
+- 동아리에서부터 학교 공식 서비스로까지 성장시켰고, 앱사용자수 3500명을 달성했습니다.
+- 사용자 데이터를 기반으로 사고하는 법을 배우고 있습니다.
+
+**[**Murphy(머피)**](https://github.com/boostcampwm2025/web09-dopamine) | 2025.12 ~ 2026.02 | FE**
+
+- 네이버 부스트캠프 프로젝트로, AI기반 의사결정 솔루션을 개발했습니다.
+- 아이디어를 토론하는 과정에서 병목을 느꼈고, 팀원들이 느꼈던 어려움을 문제로 정의했습니다.
+- 팀이 겪은 어려움을 프로젝트로 해결하면서, 의견의 발산과 수렴의 중요성을 체감했습니다.
 
 <br> 
 
-### Experiences
+## Experiences
 
-* BMEKS Frontend Engineer 현장실습 (2026.03 ~ 2026.07)
-* 네이버 부스트캠프 웹모바일 10기 풀스택 (2025.08 ~ 2026.02)
-* 부경대학교 개발동아리 [WAP](https://github.com/pknu-wap) 리더, 임원진  (2024.02 ~ 2025.12) 
-
-
-<br>
-
-### Tech Stacks
-
-<div style="text-align: left;">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=ReactQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat&logo=Zustand&logoColor=white">
-</div>
-
-<div style="text-align: left;">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-</div>
-
-<div style="text-align: left;">
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Emotion-CC6699?style=flat&logo=emotion&logoColor=white">
-</div>
-
-<br/>
-
-<div>
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seongwon030&theme=default&show_icons=true&count_private=true&include_orgs=true" height="180px"/>
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seongwon0903" height="180px"/>
-</div>
+* [부경대학교 개발동아리 WAP](https://github.com/pknu-wap) 리더, 임원진
+* [네이버 부스트캠프](https://github.com/boostcampwm2025) 웹모바일 10기 풀스택 (네이버 커넥트재단) 
 
