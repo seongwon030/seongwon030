@@ -7,14 +7,6 @@
 <br>
 
 
-### Interested in
-
-- claude나 codex로 하네스를 구축하는 것에 관심이 있어요.
-- 어떤 지표가 서비스 성장에 도움이 될 지 고민해요.
-
-<br>
-
-
 ### Projects
 
 * [**Moadong(모아동)**](https://github.com/Moadong/moadong) – 부경대학교 동아리 플랫폼
