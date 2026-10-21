@@ -27,7 +27,14 @@ End-to-End로 문제를 해결하며, 분야를 가리지 않고 넘나드는 �
 ## Experiences
 
 * [부경대학교 개발동아리 WAP](https://github.com/pknu-wap) 리더, 임원진
-* [네이버 부스트캠프](https://github.com/boostcampwm2025) 웹모바일 10기 풀스택 (네이버 커넥트재단)  
+* [네이버 부스트캠프](https://github.com/boostcampwm2025) 웹모바일 10기 풀스택 (네이버 커넥트재단)
+
+## Open Source
+
+**[motion](https://github.com/motiondivision/motion)** (framer-motion)
+
+-  [#3944](https://github.com/motiondivision/motion/issues/3944) → [#3951](https://github.com/motiondivision/motion/pull/3951)
+-  [#3955](https://github.com/motiondivision/motion/issues/3955) → [#3959](https://github.com/motiondivision/motion/pull/3959)
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seongwon030&utm_content=farm">
 <img
