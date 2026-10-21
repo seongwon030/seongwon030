@@ -32,7 +32,7 @@ End-to-End로 문제를 해결하며, 분야를 가리지 않고 넘나드는 �
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seongwon030&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/seongwon030"
-  width="600"
-  height="300"
+  width="400"
+  height="200"
 />
 </a>
