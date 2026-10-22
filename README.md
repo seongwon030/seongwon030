@@ -36,6 +36,10 @@ End-to-End로 문제를 해결하며, 분야를 가리지 않고 넘나드는 �
 -  [#3944](https://github.com/motiondivision/motion/issues/3944) → [#3951](https://github.com/motiondivision/motion/pull/3951)
 -  [#3955](https://github.com/motiondivision/motion/issues/3955) → [#3959](https://github.com/motiondivision/motion/pull/3959)
 
+**[styled-components](https://github.com/styled-components/babel-plugin-styled-components)** (babel-plugin-styled-components)
+
+-  [#5613](https://github.com/styled-components/styled-components/issues/5613) → [#427](https://github.com/styled-components/babel-plugin-styled-components/pull/427)
+
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seongwon030&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/seongwon030"
