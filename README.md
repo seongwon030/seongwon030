@@ -40,6 +40,10 @@ End-to-End로 문제를 해결하며, 분야를 가리지 않고 넘나드는 �
 
 -  [#427](https://github.com/styled-components/babel-plugin-styled-components/pull/427)
 
+**[sentry-javascript](https://github.com/getsentry/sentry-javascript)** (@sentry/react)
+
+-  [#25638](https://github.com/getsentry/sentry-javascript/issues/25638) → [#25639](https://github.com/getsentry/sentry-javascript/pull/25639)
+
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seongwon030&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/seongwon030"
