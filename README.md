@@ -31,18 +31,18 @@ End-to-End로 문제를 해결하며, 분야를 가리지 않고 넘나드는 �
 
 ## Open Source
 
-**[motion](https://github.com/motiondivision/motion)** (framer-motion)
+**[framer-motion](https://github.com/motiondivision/motion)**
 
 -  [#3944](https://github.com/motiondivision/motion/issues/3944) → [#3951](https://github.com/motiondivision/motion/pull/3951)
 -  [#3955](https://github.com/motiondivision/motion/issues/3955) → [#3959](https://github.com/motiondivision/motion/pull/3959)
 
-**[styled-components](https://github.com/styled-components/babel-plugin-styled-components)** (babel-plugin-styled-components)
+**[babel-plugin-styled-components](https://github.com/styled-components/babel-plugin-styled-components)**
 
 -  [#427](https://github.com/styled-components/babel-plugin-styled-components/pull/427)
 
-**[sentry-javascript](https://github.com/getsentry/sentry-javascript)** (@sentry/react)
+**[sentry-javascript](https://github.com/getsentry/sentry-javascript)** 
 
--  [#25638](https://github.com/getsentry/sentry-javascript/issues/25638) → [#25639](https://github.com/getsentry/sentry-javascript/pull/25639)
+-  [#25639](https://github.com/getsentry/sentry-javascript/pull/25639)
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seongwon030&utm_content=farm">
 <img
