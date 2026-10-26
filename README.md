@@ -36,6 +36,10 @@ End-to-End로 문제를 해결하며, 분야를 가리지 않고 넘나드는 �
 
 -  [#25639](https://github.com/getsentry/sentry-javascript/pull/25639)
 
+**[react-router](https://github.com/remix-run/react-router)**
+
+- [#15689](https://github.com/remix-run/react-router/pull/15689)
+
 **[babel-plugin-styled-components](https://github.com/styled-components/babel-plugin-styled-components)**
 
 -  [#427](https://github.com/styled-components/babel-plugin-styled-components/pull/427)
