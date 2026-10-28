@@ -35,6 +35,7 @@ End-to-End로 문제를 해결하며, 분야를 가리지 않고 넘나드는 �
 **[sentry-javascript](https://github.com/getsentry/sentry-javascript)** 
 
 -  [#25639](https://github.com/getsentry/sentry-javascript/pull/25639)
+-  [#25758](https://github.com/getsentry/sentry-javascript/issues/25758) → [#25770](https://github.com/getsentry/sentry-javascript/pull/25770)
 
 **[react-router](https://github.com/remix-run/react-router)**
 
