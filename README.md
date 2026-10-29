@@ -31,24 +31,35 @@ End-to-End로 문제를 해결하며, 분야를 가리지 않고 넘나드는 �
 
 ## Open Source
 
+<details>
+<summary><b><a href="https://github.com/getsentry/sentry-javascript">sentry-javascript</a></b></summary>
 
-**[sentry-javascript](https://github.com/getsentry/sentry-javascript)** 
+- [#25639](https://github.com/getsentry/sentry-javascript/pull/25639)
+- [#25758](https://github.com/getsentry/sentry-javascript/issues/25758) → [#25770](https://github.com/getsentry/sentry-javascript/pull/25770)
 
--  [#25639](https://github.com/getsentry/sentry-javascript/pull/25639)
--  [#25758](https://github.com/getsentry/sentry-javascript/issues/25758) → [#25770](https://github.com/getsentry/sentry-javascript/pull/25770)
+</details>
 
-**[react-router](https://github.com/remix-run/react-router)**
+<details>
+<summary><b><a href="https://github.com/remix-run/react-router">react-router</a></b></summary>
 
 - [#15689](https://github.com/remix-run/react-router/pull/15689)
 
-**[babel-plugin-styled-components](https://github.com/styled-components/babel-plugin-styled-components)**
+</details>
 
--  [#427](https://github.com/styled-components/babel-plugin-styled-components/pull/427)
+<details>
+<summary><b><a href="https://github.com/styled-components/babel-plugin-styled-components">babel-plugin-styled-components</a></b></summary>
 
-**[framer-motion](https://github.com/motiondivision/motion)**
+- [#427](https://github.com/styled-components/babel-plugin-styled-components/pull/427)
 
--  [#3944](https://github.com/motiondivision/motion/issues/3944) → [#3951](https://github.com/motiondivision/motion/pull/3951)
--  [#3955](https://github.com/motiondivision/motion/issues/3955) → [#3959](https://github.com/motiondivision/motion/pull/3959)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/motiondivision/motion">framer-motion</a></b></summary>
+
+- [#3944](https://github.com/motiondivision/motion/issues/3944) → [#3951](https://github.com/motiondivision/motion/pull/3951)
+- [#3955](https://github.com/motiondivision/motion/issues/3955) → [#3959](https://github.com/motiondivision/motion/pull/3959)
+
+</details>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seongwon030&utm_content=farm">
 <img
