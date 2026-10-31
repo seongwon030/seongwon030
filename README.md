@@ -19,7 +19,7 @@ End-to-End로 문제를 해결하며, 분야를 가리지 않고 넘나드는 �
 
 ## Work
 
-**비멕스(BMEKS) | 2026.03 ~ 2026.07 | Frontend Engineer**
+**[**비멕스(BMEKS)**](https://bmeks.com/) | 2026.03 ~ 2026.07 | Frontend Engineer**
 
 - 기업용 공정 데이터 관리 제품에서 AI 챗봇 기능 전담했습니다.
 - SaaS·온프레미스 환경별 AI 모델 설정 구조를 설계했습니다.
