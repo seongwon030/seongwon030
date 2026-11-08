@@ -3,63 +3,12 @@
 1에서 100까지 가는 과정을 즐깁니다.<br/>
 End-to-End로 문제를 해결하며, 분야를 가리지 않고 넘나드는 것을 지향합니다.
 
-
-## Projects
-
-**[**모아동**](https://github.com/Moadong/moadong) | 2024.12 ~ | FE, 팀장**
-- 부경대학교 동아리 플랫폼을 개발하고 운영해 왔습니다.
-- 동아리 프로젝트에서 학교 공식 서비스로 성장시켰고, 앱 사용자 3,500명을 달성했습니다.
-- 감이 아니라 데이터로 결정하는 법을 배우고 있습니다.
-
-**[**머피(Murphy)**](https://github.com/boostcampwm2025/web09-dopamine) | 2025.12 ~ 2026.02 | FE**
-
-- 네이버 부스트캠프 프로젝트로, 아이디어의 발산과 수렴을 돕는 AI 기반 의사결정 도구입니다.
-- 토론이 결론으로 이어지지 않는 병목을 팀이 직접 겪었고, 그 어려움을 문제로 정의했습니다.
-- 실시간 동기화(SSE)를 담당했습니다.
-
-## Work
-
-**[**비멕스(BMEKS)**](https://bmeks.com/) | 2026.03 ~ 2026.07 | Frontend Engineer**
-
-- 기업용 공정 데이터 관리 제품에서 AI 챗봇 기능 전담했습니다.
-- SaaS·온프레미스 환경별 AI 모델 설정 구조를 설계했습니다.
-
-## Experiences
-
-* [부경대학교 개발동아리 WAP](https://github.com/pknu-wap) 리더, 임원진
-* [네이버 부스트캠프](https://github.com/boostcampwm2025) 웹모바일 10기 풀스택 (네이버 커넥트재단)
-
 ## Open Source
 
-<details>
-<summary><b><a href="https://github.com/getsentry/sentry-javascript">sentry-javascript</a></b></summary>
-
-- [#25639](https://github.com/getsentry/sentry-javascript/pull/25639)
-- [#25758](https://github.com/getsentry/sentry-javascript/issues/25758) → [#25770](https://github.com/getsentry/sentry-javascript/pull/25770)
-
-</details>
-
-<details>
-<summary><b><a href="https://github.com/remix-run/react-router">react-router</a></b></summary>
-
-- [#15689](https://github.com/remix-run/react-router/pull/15689)
-
-</details>
-
-<details>
-<summary><b><a href="https://github.com/styled-components/babel-plugin-styled-components">babel-plugin-styled-components</a></b></summary>
-
-- [#427](https://github.com/styled-components/babel-plugin-styled-components/pull/427)
-
-</details>
-
-<details>
-<summary><b><a href="https://github.com/motiondivision/motion">framer-motion</a></b></summary>
-
-- [#3944](https://github.com/motiondivision/motion/issues/3944) → [#3951](https://github.com/motiondivision/motion/pull/3951)
-- [#3955](https://github.com/motiondivision/motion/issues/3955) → [#3959](https://github.com/motiondivision/motion/pull/3959)
-
-</details>
+- **sentry-javascript** [#25639](https://github.com/getsentry/sentry-javascript/pull/25639) [#25770](https://github.com/getsentry/sentry-javascript/pull/25770)
+- **react-router** [#15689](https://github.com/remix-run/react-router/pull/15689)
+- **babel-plugin-styled-components** [#427](https://github.com/styled-components/babel-plugin-styled-components/pull/427)
+- **framer-motion** [#3951](https://github.com/motiondivision/motion/pull/3951) [#3959](https://github.com/motiondivision/motion/pull/3959)
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seongwon030&utm_content=farm">
 <img
